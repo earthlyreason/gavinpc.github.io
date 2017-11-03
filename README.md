@@ -7,3 +7,11 @@ Once upon a time and a very good time it was some people had a problem.  And the
 We have lots of experience helping, and even some experience helping the helpers of people.  At some point, we also need help.  That is how the chain of helping grows.
 
 If you, too, want to be a part of this chain of helping, or let's say succession or family or something, because "chain" sounds so bad---I say, if you want to join this circle of helping, then by all means contact us by the preferred means, which we shall link to below.
+
+## Some articles that we wrote.
+
+Following is a list of the articles that you can find on this site:
+
+- [parenting is hard](parenting.md)
+
+More to come soon!
